@@ -27,7 +27,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4">
             <div className="flex items-center text-slate-700">
               <Phone className="h-4 w-4 mr-2" />
-              <span className="text-sm font-medium">+1‑800‑123‑4567</span>
+              <span className="text-sm font-medium">+1 (571) 286-6843‑</span>
             </div>
             <button className="bg-teal-600 text-white px-4 py-2 rounded-lg hover:bg-teal-700 transition-colors">
               Get Started
@@ -55,7 +55,7 @@ const Header = () => {
               <div className="px-3 py-2">
                 <div className="flex items-center text-slate-700 mb-2">
                   <Phone className="h-4 w-4 mr-2" />
-                  <span className="text-sm">+1‑800‑123‑4567</span>
+                  <span className="text-sm">+1 (571) 286-6843</span>
                 </div>
                 <button className="w-full bg-teal-600 text-white px-4 py-2 rounded-lg hover:bg-teal-700 transition-colors">
                   Get Started

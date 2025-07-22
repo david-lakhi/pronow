@@ -36,7 +36,7 @@ const Hero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 border-t border-slate-200">
               <div className="flex items-center text-slate-700">
-                <span className="font-medium">📞 +1‑800‑123‑4567</span>
+                <span className="font-medium">📞 +1 (571) 286-6843</span>
               </div>
               <button className="bg-green-500 text-white px-6 py-3 rounded-xl font-medium hover:bg-green-600 transition-all flex items-center">
                 <MessageCircle className="h-5 w-5 mr-2" />
